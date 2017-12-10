@@ -82,6 +82,7 @@
 #include "security.h"
 #include "ioctl.h"
 #include "misc.h"
+#include "sys/sysmacros.h"
 
 #if defined(FITRIM) && defined(BLKDISCARD)
 

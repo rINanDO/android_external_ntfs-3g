@@ -100,6 +100,7 @@
 #include "xattrs.h"
 #include "misc.h"
 #include "ioctl.h"
+#include "sys/sysmacros.h"
 
 #include "ntfs-3g_common.h"
 
